@@ -1,4 +1,4 @@
-# Sample Django Text to Speech with google api
+# Simple Django Text to Speech with google api
 
 **setup and run**
 
